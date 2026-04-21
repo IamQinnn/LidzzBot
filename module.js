@@ -1,7 +1,12 @@
 module.exports = {
 modul: {
 	axios: require('axios'),
-	sharp: require('sharp'),
+	let sharp
+try {
+  sharp = require('sharp')
+} catch {
+  console.log('Sharp disabled')
+},
 	boom: require('@hapi/boom'),
 	baileys: require("lily-baileys"),
 	chalk: require('chalk'),
