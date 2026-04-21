@@ -13,9 +13,9 @@ global.kirsan = true
 //BATAS//
 //=========GLOBAL MY=========//
 global.my = {
-	yt: "https://youtube.com/@fallxd78110", //ubah saja terserah 
-    ch: "https://whatsapp.com/channel/", //ubah saja sama link channel lu
-    idch: "120363186130999681@newsletter" //ubah idch lu
+	yt: "https://youtube.com/@kumpulan.podcast", //ubah saja terserah 
+    ch: "https://whatsapp.com/channel/-", //ubah saja sama link channel lu
+    idch: "-" //ubah idch lu
 }
 ////////////////////////////////////////////////////////////////////////////////
 
@@ -30,7 +30,7 @@ global.dinzmenu = 'https://files.catbox.moe/b0j8ps.jpg', //THUMB MENU button KAL
 global.setwel = "https://img1.pixhost.to/images/8859/642894040_lily.jpg"
 
 global.frch = ["48ff6e64f25bb5d566a603e40906c3b8e6392d961f4905f77887762b7bf03409",
-"Isi Apikeys Mu" // Dapatkan apikey di https://asitha.top/login?ref=hillaryy2555
+"80118cc52b5305ea0f980e3c910023790d3168155649e2ac87780edcd4eb830e" // Dapatkan apikey di https://asitha.top/login?ref=hillaryy2555
 ]
 /////////////////////// WELCOME SETTINGS ///////////////
 global.welcome = true
@@ -46,35 +46,35 @@ global.replyviex = 'https://files.catbox.moe/9lkwtv.jpg'
 
 
 //////////////////////SETTING TAMPILAN MENU KALIAN//////////////////
-global.ig = '@fallxd781' //NAMA IG LU
-global.yt = 'fallzx-features' //NAMA YT LU, KALO GADA GAUSAH DIISI
-global.namaBot = "Furina | MD✨" // Ganti aja
-global.namabot = "Furina | MD✨" // Ganti serah lu
-global.footer = "ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ" //Ganti aja serah
-global.ttowner = '@siapaa_2202' //NAMA TIKTOK LU
-global.namafile = 'Furina 🛍' // Ganti aja
-global.ownername = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ' //NAMA LU
-global.owner = ['6285813708397'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285813708397' // NOMOR LU YANG MAU JDI OWNER
+global.ig = '@ainur.roziq_' //NAMA IG LU
+global.yt = '-' //NAMA YT LU, KALO GADA GAUSAH DIISI
+global.namaBot = "LidzBot" // Ganti aja
+global.namabot = "LidzBot" // Ganti serah lu
+global.footer = "R X LidzBot" //Ganti aja serah
+global.ttowner = '@xy.ainurroziq' //NAMA TIKTOK LU
+global.namafile = 'Lidzz 🛍' // Ganti aja
+global.ownername = 'Liddz' //NAMA LU
+global.owner = ['6285931033847'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '6285931033847' // NOMOR LU YANG MAU JDI OWNER
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
-global.nameCreator = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ'
+global.nameCreator = 'By Liddz'
 /////////////////////////////////////////////////////////////////////////////////
 
 
 
 //=================SETTING PAYMENT KALIAN===================\\
-global.nodana = '085813708397' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '085813708397' // KOSONG KAN JIKA TIDAK ADA 
-global.noovo = '085813708397' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '085931033847' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '085792279757' // KOSONG KAN JIKA TIDAK ADA 
+global.noovo = '-' // KOSONG KAN JIKA TIDAK ADA
 /////////////////////////////////////////////////////////////////////////////////
 
 
 
 //==============SETTING PAYMENT NAME=======================\\
-global.andana = '085813708397' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = '085813708397' // KOSONG KAN JIKA TIDAK ADA
-global.anovo = '085813708397' // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'Muhxx Ainxx Rozxx' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'Muhxx Ainxx Rozxx' // KOSONG KAN JIKA TIDAK ADA
+global.anovo = '-' // KOSONG KAN JIKA TIDAK ADA
 //////////////////////////////////////////////////////////////////////////////////
 
 //BATAS//
@@ -103,28 +103,28 @@ global.emoji = [
     "🥺"
 ]
 //==================SETTING BOT===========================\\
-global.botname = "Furina | MD ✨" //NAMA BOT LU
-global.ownernumber = '6285813708397' //NOMOR LU
-global.botnumber = '628813788606' //NOMOR LU
-global.ownername = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
-global.idSaluran = "120363186130999681@newsletter"//ID SALURAN LU
-global.idch = "120363186130999681@newsletter"//ID SALURAN LU
-global.chat = '120363186130999681@newsletter' // Ganti idch buat command .chat
-global.namaSaluran = "Furina Assistant • Bot WhatsApp" //Ganti sama nama saluran lu
-global.linkSaluran = "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D"
-global.ownerNumber = ["6285813708397@s.whatsapp.net"] //NOMORLU
-global.ownerweb = ""//WEB LU//OPSIONAL
-global.websitex = ""//OPSIONAL
-global.wagc = "https://chat.whatsapp.com/KBeOpfm2Wyw62ImBHypEUx"
-global.wach = 'https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D'
-global.saluran = "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D"
-global.themeemoji = '🪀'
-global.wm = "Furina X ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
+global.botname = "Lidzz Bot" //NAMA BOT LU
+global.ownernumber = '6285931033847' //NOMOR LU
+global.botnumber = '6282139914669' //NOMOR LU
+global.ownername = 'Lidzz | Dev' //NAMA LU
+global.idSaluran = "-"//ID SALURAN LU
+global.idch = "-"//ID SALURAN LU
+global.chat = '-' // Ganti idch buat command .chat
+global.namaSaluran = "-" //Ganti sama nama saluran lu
+global.linkSaluran = "-"
+global.ownerNumber = ["6285931033847@s.whatsapp.net"] //NOMORLU
+global.ownerweb = "-"//WEB LU//OPSIONAL
+global.websitex = "-"//OPSIONAL
+global.wagc = "-"
+global.wach = '-'
+global.saluran = "-"
+global.themeemoji = '🔥'
+global.wm = "Lidzz | R"
 global.botscript = 'MAAS MAF INI BELI YAA :D'
 global.version = "3.1.0"
 global.packname = "🛒 ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
-global.author = "\n\nCreate by Furina MD\n Dev : ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
-global.creator = "6285813708397@s.whatsapp.net"
+global.author = "\n\nCreate by Lidzz\n Dev : Rzxx"
+global.creator = "6285931033847@s.whatsapp.net"
 /////////////////////////////////////////////////////////////////////////////////
 
 
@@ -159,12 +159,12 @@ global.tekspushkonv4 = ""
 
 /////////////////////////////////////////////////////////////////////////////////
 global.mess = {
-wait: "*[ FurinaMD ]* Tunggu bentar ya sayang.......",
-   error: "*[ FurinaMD ]* Maaf ada error dikit",
-   success: "*[ FurinaMD ]* Nih sukses bng",
-   on: "*[ FurinaMD ]* Sudah aktif", 
-   off: "*[ FurinaMD ]* Sudah mati",
-   done: "*[ FurinaMD ]* Done nih Bang",
+wait: "*[ LidzzBot ]* Tunggu bentar ya sayang.......",
+   error: "*[ LidzzBot ]* Maaf ada error dikit",
+   success: "*[ LidzzBot ]* Nih sukses bng",
+   on: "*[ LidzzBot ]* Sudah aktif", 
+   off: "*[ LidzzBot ]* Sudah mati",
+   done: "*[ LidzzBot ]* Done nih Bang",
    query: {
        text: "ᴛᴇᴋs ɴʏᴀ ᴍᴀɴᴀ ᴋᴀᴋ ?",
        link: "ʟɪɴᴋ ɴʏᴀ ᴍᴀɴᴀ ᴋᴀᴋ ?",
