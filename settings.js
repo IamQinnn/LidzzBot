@@ -24,8 +24,8 @@ global.delayJpm = 7000
 //=====================================//
 //=========UBAH BAGIAN THUMBNAIL MENU & ALLMENU==========//
 global.gif = fs.readFileSync('./data/image/yoimiya.mp4'),
-global.thumbnail = 'https://files.catbox.moe/yng1lr.jpg', //THUMB MENU KALIAN
-global.dinzmenu = 'https://files.catbox.moe/b0j8ps.jpg', //THUMB MENU button KALIAN
+global.thumbnail = '.data/image/thumb.jpg', //THUMB MENU KALIAN
+global.dinzmenu = '.data/image/menu.jpg', //THUMB MENU button KALIAN
 /////////////////////////////////////////////////////////////////////////////////
 global.setwel = "https://img1.pixhost.to/images/8859/642894040_lily.jpg"
 
